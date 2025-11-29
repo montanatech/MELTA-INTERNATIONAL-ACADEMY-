@@ -1,0 +1,15 @@
+melta-academy/
+│
+├── index.html          # Homepage
+├── css/
+│   └── style.css       # Global styles
+├── js/
+│   └── main.js         # Interactivity
+├── images/             # Photos & logos
+├── lang/               # Translation JSON files
+│   ├── en.json
+│   ├── shona.json
+│   └── ndebele.json
+└── portal/             # Student/Parent login page (index.html inside)
+
+ 
